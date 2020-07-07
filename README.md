@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yashrajjain726/module4sol/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Javascript Console setup ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/Javascript-Console-setup?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/Javascript-Console-setup?style=social) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yashrajjain726/Javascript-Console-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/yashrajjain726/Javascript-Console-setup)  ![GitHub issues](https://img.shields.io/github/issues-raw/yashrajjain726/Javascript-Console-setup) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/yashrajjain726/Javascript-Console-setup)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Javascript Console setup 
 
-### Markdown
+This is a small project by me for performing console setup and hand-on practice on Javascript on Web browser console.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### :file_folder: [Code Section](https://github.com/yashrajjain726/Javascript-Console-setup)
 
-```markdown
-Syntax highlighted code block
+### :running: [Live View](https://yashrajjain726.github.io/Javascript-Console-setup/)
 
-# Header 1
-## Header 2
-### Header 3
+## Author
 
-- Bulleted
-- List
+👤 **Yashraj Jain**
 
-1. Numbered
-2. List
+* [Website](yashrajjain726.github.io)
+* [Github Profile](https://github.com/yashrajjain726)
+* [LinkedIn Profile](https://linkedin.com/in\/yashraj-jain-695453178\/)
 
-**Bold** and _Italic_ and `Code` text
+## 🙋 Created and Maintained by. 
+[Yashraj Jain](https://github.com/yashrajjain726)
 
-[Link](url) and ![Image](src)
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Javascript-Console-setup/issues). You can also take a look at the our project and PR us .[Click to Raise PR](https://github.com/yashrajjain726/Javascript-Console-setup/pulls).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## © License 
 ```
+MIT License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Copyright (c) 2020 Yashraj Jain
 
-### Jekyll Themes
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yashrajjain726/module4sol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+## Thanks for visiting my code section of this project :heart: 
